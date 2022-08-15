@@ -221,7 +221,7 @@ section {
 
 .gallery .box-container .box {
   position: relative;
-  border: 1rem solid #333;
+  border: 1rem solid #291414;
   border-radius: 0.5rem;
   height: 25rem;
   cursor: pointer;
@@ -386,7 +386,7 @@ section {
 .contact form .inputBox input,
 .contact form textarea {
   width: 100%;
-  background: #333;
+  background: #200808;
   border-radius: 0.5rem;
   padding: 1rem;
   margin: 0.7rem 0;
@@ -415,7 +415,7 @@ section {
 }
 
 .footer {
-  background: rgb(51, 19, 19);
+  background: #200808;
 }
 
 .footer .box-container {
@@ -558,7 +558,7 @@ section {
 
   .header .navbar a {
     display: flex;
-    background: #222;
+    background: #200808;
     border-radius: 0.5rem;
     padding: 1.3rem;
     margin: 1.3rem;
